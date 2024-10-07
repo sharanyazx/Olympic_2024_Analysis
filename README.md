@@ -1,6 +1,6 @@
-**Olympic 2024 Data Analysis**
+***Olympic 2024 Data Analysis***
 
-Project Overview
+**Project Overview**
 
 This project aims to conduct exploratory data analysis (EDA) on the Paris 2024 Olympic Summer Games dataset. The goal is to extract meaningful insights, such as athlete performance, medal distributions, and country-wise achievements. The analysis involves creating interactive charts and performing data profiling to thoroughly understand the dataset.
 Features
