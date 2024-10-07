@@ -1,4 +1,4 @@
-Olympic 2024 Data Analysis
+**Olympic 2024 Data Analysis**
 
 Project Overview
 
